@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : Bharath Raj P
-# Roll no : 212223230031
-# Date of experiment : 4/03/2025
+Name : Bharath Raj P
+
+Roll no : 212223230031
+
+Date of experiment : 4/03/2025
 
 
 
